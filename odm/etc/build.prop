@@ -1,0 +1,5 @@
+ro.omc.build.version=A750FNOXM5CVG1
+ro.omc.build.id=54226083
+ro.omc.changetype=DATA_RESET_ON,TRUE
+ro.simbased.changetype=NO_DFLT_CSC,OMC
+ro.omc.disabler=FALSE
